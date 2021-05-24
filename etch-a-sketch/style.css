@@ -1,0 +1,21 @@
+h1 {
+	font-family: sans-serif;
+}
+
+.etch {
+	margin: 0 auto;
+	display: grid;
+	width: 480px;
+	height: 480px;
+	border: 1px solid black;
+}
+
+.container {
+	text-align: center;
+}
+
+.controls {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 1%;
+}
