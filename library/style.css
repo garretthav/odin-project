@@ -1,0 +1,19 @@
+span {
+	padding: 3em;
+}
+
+.header {
+	font-weight: bold;
+}
+
+.newBookForm {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
